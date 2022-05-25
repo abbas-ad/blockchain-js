@@ -1,0 +1,7 @@
+// ths code will fix the  vs code jest auto cpmplate 
+{
+    "typeAcquisition": {
+        "include": ["jest"]
+    }
+}
+
